@@ -1,17 +1,32 @@
-# todo_list
+NR-ToDo-List
 
-A new Flutter project.
+NR-ToDo-List ist eine einfache Aufgabenverwaltungs-App, die ich mit Flutter und Dart entwickelt habe.
 
-## Getting Started
+Mit der App kann man Aufgaben hinzufügen, in verschiedene Kategorien einteilen, als erledigt markieren und löschen. Außerdem kann man zwischen vier Sprachen und einem hellen oder dunklen Design wechseln.
 
-This project is a starting point for a Flutter application.
+Funktionen
 
-A few resources to get you started if this is your first Flutter project:
+* Aufgaben hinzufügen, als erledigt markieren und löschen
+* Aufgaben in sechs Kategorien einteilen
+* Aufgaben und Einstellungen lokal speichern
+* Die Sprache ändern: Englisch, Französisch, Arabisch oder Deutsch
+* Zwischen hellem und dunklem Design wechseln
+* Ein eigenes Hintergrundbild festlegen
+* Das Erstellungsdatum der Aufgaben anzeigen
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Verwendete Technologien
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* SharedPreferences
+* JSON
+
+Was ich dabei gelernt habe
+
+Bei diesem Projekt habe ich mich mit der Entwicklung einer Benutzeroberfläche, der Verwaltung von App-Zuständen und der lokalen Speicherung von Daten beschäftigt. Außerdem habe ich Funktionen für mehrere Sprachen und verschiedene Anzeigeeinstellungen umgesetzt.
+
+Was ich noch verbessern möchte
+
+* Aufgaben bearbeiten können
+* Die Eingabeprüfung und Fehlerbehandlung verbessern
+* Automatisierte Tests hinzufügen
